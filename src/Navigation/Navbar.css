@@ -1,0 +1,18 @@
+nav{
+    background-color:bisque;
+    color:black;
+}
+li{
+    list-style: none;
+}
+nav{
+    position: fixed;
+    width:100%;
+    top:0;
+}
+
+ul{
+    display:flex;
+    gap:30px;
+    Justify-content:right;
+}
